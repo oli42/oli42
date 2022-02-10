@@ -4,4 +4,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oli42&langs_count=8)](https://github.com/oli42/github-readme-stats)
 
+  <a href="https://github.com/sponsors/oli42"><img src="https://img.shields.io/badge/github%20sponsors-%23EA4AAA.svg?&style=flat&logo=github%20sponsors&logoColor=white"></a>
 
